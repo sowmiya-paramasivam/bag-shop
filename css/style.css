@@ -208,6 +208,7 @@ header.active{
 
 .home-img {
     animation: float 3s linear infinite;
+    background: var(--second-color);
 }
 
 @keyframes float {
